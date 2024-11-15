@@ -1,3 +1,4 @@
+//Recyclable and Low Fat Products
 //Create table
 Create table If Not Exists Products (product_id int, low_fats ENUM('Y', 'N'), recyclable ENUM('Y','N'))
 Truncate table Products
